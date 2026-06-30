@@ -1,20 +1,85 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Li-Fi Using Arduino 💡📡
 
-# Run and deploy your AI Studio app
+## Light Fidelity Based Wireless Communication System
 
-This contains everything you need to run your app locally.
+A simple Li-Fi prototype built using **Arduino UNO, LED light source, LDR sensor, and LCD display** to demonstrate data transmission through visible light.
 
-View your app in AI Studio: https://ai.studio/apps/47268e2b-9417-49ee-ac7e-9c14b5f81f19
+## 📌 Project Overview
 
-## Run Locally
+Li-Fi (Light Fidelity) is a wireless communication technology that uses light signals to transmit data instead of radio waves.
 
-**Prerequisites:**  Node.js
+In this project:
+
+- Message data is converted into binary signals
+- LED transmits data through light variations
+- LDR sensor receives the signals
+- Arduino processes the data
+- LCD displays the received message
+
+---
+
+## ⚙️ Working Flow
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Message Input
+↓
+Binary Conversion
+↓
+LED Light Transmission
+↓
+LDR Signal Detection
+↓
+Arduino Processing
+↓
+LCD Output
+
+
+---
+
+## 🔩 Components Used
+
+- Arduino UNO
+- LDR Sensor Module
+- LED Light Source
+- 16x2 LCD Display
+- Breadboard
+- Jumper Wires
+- Resistors
+
+---
+
+## 💻 Technology
+
+- Arduino Programming
+- Embedded Systems
+- Optical Wireless Communication
+
+---
+
+## 🚀 Features
+
+- Light-based wireless communication
+- Low-cost prototype
+- Secure short-range data transfer
+- Arduino controlled system
+
+---
+
+## 🔮 Future Scope
+
+- Higher data transfer speed
+- IoT-based Li-Fi systems
+- Smart city communication
+- Real-time data transmission
+
+---
+
+## 👨‍💻 Team
+
+**Developed By:**
+
+Safa Salim Kaware  
+Samiksha Surendra Kadam  
+Musaddiq Mubeen Boat  
+Anuroop Debish  
+Omkar Kore  
