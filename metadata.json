@@ -1,0 +1,6 @@
+{
+  "name": "Li-Fi Arduino Case Study",
+  "description": "A premium engineering case study website for the Arduino-based Light Fidelity (Li-Fi) communication system, demonstrating optical wireless communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
